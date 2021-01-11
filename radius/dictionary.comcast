@@ -1,0 +1,15 @@
+# -*- text -*-
+# Copyright (C) 2015 The FreeRADIUS Server project and contributors
+##############################################################################
+#
+#   Comcast Vendor Specific Attributes Dictionary
+#
+#   Created by Sylph Lin <tamilganesan23@gmail.com>
+#
+#   Version $Id: fcbfce088111094e6bd9dc9b4ae72215b181e141 $
+#
+##############################################################################
+VENDOR      Comcast             17270
+BEGIN-VENDOR    Comcast
+ATTRIBUTE   Comcast-Reply-Message           137 string
+END-VENDOR      Comcast
